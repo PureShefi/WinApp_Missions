@@ -1,0 +1,7 @@
+﻿  WinApp.c
+d:\coding\c\winapp\winapp\winapp.c(31): warning C4133: 'function': incompatible types - from 'LPSTR' to 'LPCWSTR'
+d:\coding\c\winapp\winapp\winapp.c(30): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: see declaration of '_swprintf'
+d:\coding\c\winapp\winapp\winapp.c(120): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: see declaration of '_swprintf'
+  WinApp.vcxproj -> D:\Coding\C\WinApp\Debug\WinApp.exe
